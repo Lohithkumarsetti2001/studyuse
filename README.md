@@ -66,7 +66,9 @@ DELETE /book/2
 
 This project is just for learning and practice. No license.
 👤 Author
-Sonal I,Siva Kumar,Lohith
+Lohith Kumar
+Siva Kumar
+Sonal
 
 
 ---

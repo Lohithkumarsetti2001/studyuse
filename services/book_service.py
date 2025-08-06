@@ -1,4 +1,4 @@
-book_data={1:{"title":"haryy potter","author":"JK rowling"},2:{"title":"lord of the rings","author":"john donald"}}
+book_data={}
 def get_id(book_id:  int):
     return book_data.get(book_id,{'error':'book not found'})
 def add_book(book_id:int,book:dict):
